@@ -15,3 +15,5 @@ Makefile.in
 
 /doxygen.cfg
 /libnetfilter_queue.pc
+obj
+libs
